@@ -13,6 +13,7 @@ function App() {
     <div className="App">
       
         <h1>Corporativo Salav Roshfrans</h1>
+         <h2>Ingresa a la página web de la empresa con un clic</h2>
 
       <div>
         <a href="https://salav.com.mx/" target="_blank">
