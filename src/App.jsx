@@ -45,7 +45,7 @@ function App() {
       </div>
 
       <p className="texto_links">
-        Haga clic en los siguientes links para poder ingresar al programa::::
+        Haga clic en los siguientes links para poder ingresar al programa:hskkjaskjsahksad
       </p>
 
         <p >   
