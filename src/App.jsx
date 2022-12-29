@@ -11,42 +11,37 @@ function App() {
 
   return (
     <div className="App">
-      
-        <h1>Corporativo Salav Roshfrans</h1>
-         <h2>Ingresa a la página web de la empresa con un clic</h2>
+      <h1>Corporativo Salav Roshfrans</h1>
+
+        <div className="texto_web">
+          <p>
+            Haga clic en el icono para ser direccionado a la página web de la empresa.
+          </p>
+        </div>
 
       <div>
         <a href="https://salav.com.mx/" target="_blank">
           <img src="/CSR1.ico" className="logo" alt="Vite logo" />
         </a>
         <a href="https://www.roshfrans.com/" target="_blank">
-          <img src={Roshfrans} className="logo Roshfrans" alt="Roshfrans logo" />
+          <img src={Roshfrans} className="logo_Roshfrans" alt="Roshfrans_logo" />
         </a>
         <a href="https://autopartessalav.com.mx/" target="_blank">
-          <img src={AutopartesSalav} className="logo AutopartesSalav" alt="AutopartesSalav logo" />
+          <img src={AutopartesSalav} className="logo_AutopartesSalav" alt="AutopartesSalav_logo" />
         </a>
         <a href="https://maylo.com.mx/" target="_blank">
-          <img src={MAYLO} className="logo MAYLO" alt="MAYLO logo" />
+          <img src={MAYLO} className="logo_MAYLO" alt="MAYLO_logo" />
         </a>
         <a href="https://autopartessalav.com.mx/" target="_blank">
-          <img src={BAISA} className="logo BAISA" alt="BAISA logo" />
+          <img src={BAISA} className="logo_BAISA" alt="BAISA_logo" />
         </a>
         <a href="http://www.mej.com.mx/" target="_blank">
-          <img src={MEJ} className="logo MEJ" alt="MEJ logo" />
+          <img src={MEJ} className="logo_MEJ" alt="MEJ_logo" />
         </a>
-      </div>
-
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          clic no. {count}
-        </button>
-        <p>
-          Haga clic en el icono para ser direccionado a la página web de la empresa.
-        </p>
       </div>
 
       <p className="texto_links">
-        Haga clic en los siguientes links para poder ingresar al programa:hskkjaskjsahksad
+        Haga clic en los siguientes links para poder ingresar al programa.
       </p>
 
         <p >   
@@ -87,9 +82,6 @@ function App() {
               </p>
               <p>
                 <a href="http://192.168.10.56/CartaPorte/web/inicio.aspx" target="_blank"> CARTA PORTE </a>
-              </p>
-              <p>
-                <a href="https://moodle.roshfrans.com:826/" target="_blank"> MOODLE </a>
               </p>
               <p>
                 <a href="http://192.168.10.56/sscc/web/w_login.aspx" target="_blank"> SSCC </a>
@@ -140,17 +132,30 @@ function App() {
 
 
             <div>
-              <p>Contenido de la tercer columna.</p>
+              <p>Contenido páginas Extras.</p>
+                <p>
+                  <a href="https://workbeat.com/" target="_blank"> WORKBEAT </a>
+                </p>
+                <p>
+                  <a href="https://moodle.roshfrans.com:826/" target="_blank"> MOODLE </a>
+                </p>
+                <p>
+                  <a href="http://192.168.10.56/quiniela/web/wpingreso.aspx" target="_blank"> QUINIELA </a>
+                </p>
             </div>
 
           </div>
         </p>
 
     </div>
+  
   )
+
 
 
 }
 
 
 export default App
+
+
