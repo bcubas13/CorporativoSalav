@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  background-color: rgb(255, 255, 255);
+  background-image: url('http://salav.com.mx/wp-content/uploads/2022/01/fondo_metal.png');
 }
 
 .logo {
@@ -108,13 +108,13 @@
 }
 
 .texto_web {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-weight:  bolder;
   text-align: center;
 }
 
 .texto_links {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   padding: 0em;
   text-align: center;
   font-weight:  bolder;
@@ -125,7 +125,7 @@
   flex-direction: row;
   flex-wrap: wrap;
   font-weight:  bolder;
-  color: rgb(0, 0, 0)
+  color: rgb(255, 255, 255)
 }
 
 #links1 > div {
