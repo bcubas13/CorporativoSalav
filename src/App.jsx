@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Corporativo Salav Roshfrans</h1>
+      <h1>Corporativo Salav</h1>
 
         <div className="texto_web">
           <p>
@@ -108,9 +108,6 @@ function App() {
                 <a href="http://192.168.10.56/SICOV1/Web/inicio.aspx" target="_blank"> SICOV </a>
               </p>
               <p>
-                <a href="https://serviciosweb.roshfrans.com:447/web/wpinicio.aspx" target="_blank"> VACACIONES Y PERMISOS </a>
-              </p>
-              <p>
                 <a href="https://serviciosweb.roshfrans.com:449/Sistema/Web/wpinicio.aspx" target="_blank"> ACTIVO FIJO </a>
               </p>
               <p>
@@ -132,7 +129,7 @@ function App() {
 
 
             <div>
-              <p>Contenido páginas Extras.</p>
+              <p>Extras.</p>
                 <p>
                   <a href="https://workbeat.com/" target="_blank"> WORKBEAT </a>
                 </p>
