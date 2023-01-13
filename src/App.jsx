@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <h1>Corporativo Salav Roshfrans S.A de C.V.</h1>
       <div className= "Logo_Principal">
-      <h2>
+      <h2 style={{color:"red"}}>
         Somos la mejor experiencia en el mundo
       </h2>
     </div>
