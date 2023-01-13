@@ -11,8 +11,12 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Corporativo Salav</h1>
-
+      <h1>Corporativo Salav Roshfrans S.A de C.V</h1>
+      <div className= "Logo_Principal">
+      <h2>
+        Somos la mejor experiencia en el mundo
+      </h2>
+    </div>
         <div className="texto_web">
           <p>
             Haga clic en el icono para ser direccionado a la página web de la empresa.
@@ -151,7 +155,6 @@ function App() {
 
 
 }
-
 
 export default App
 
