@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Corporativo Salav Roshfrans S.A de C.V</h1>
+      <h1>Corporativo Salav Roshfrans S.A de C.V.</h1>
       <div className= "Logo_Principal">
       <h2>
         Somos la mejor experiencia en el mundo
