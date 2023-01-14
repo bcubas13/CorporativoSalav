@@ -14,7 +14,7 @@ function App() {
       <h1>Corporativo Salav Roshfrans S.A de C.V.</h1>
       <div className="Logo_Principal">
         <h2 style={{ color: "withe" }}>
-          Somos la mejor experiencia en el mundo en aceites.
+          Es la mejor empresa en el mundo en aceites.
         </h2>
       </div>
       <div className="texto_web">
