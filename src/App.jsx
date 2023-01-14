@@ -147,7 +147,7 @@ function App() {
 
         </div>
       </p>
-      
+          
     </div><div classname="direccion">
         Av. Othón de Mendizábal NO. 484, Piso 4-A Int. 2
         Col. Nueva Industrial Vallejo. Alcaldía Gustavo A. Madero. C. P. 07700.
