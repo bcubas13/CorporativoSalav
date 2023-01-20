@@ -14,14 +14,14 @@ function App() {
       <h1>Corporativo Salav Roshfrans S.A de C.V.</h1>
       <div className="Logo_Principal">
         <h2 style={{ color: "withe" }}>
-          Es la mejor empresa en el mundo en aceites.
+          Es la mejor empresa en el mundo de aceites.
         </h2>
       </div>
       <div className="texto_web">
         <p>
           Haga clic en el icono para ser direccionado a la página web de la empresa.
         </p>
-      </div>
+      </div> 
 
       <div>
         <a href="https://salav.com.mx/" target="_blank">
@@ -51,35 +51,44 @@ function App() {
       <p>
         <div id="links1">
           <div>
-            <p>Contenido de Soporte TI.</p>
+            <p>Contenido para Soporte TI</p>
             <p>
-              <a href="https://intelli1.zoolz.com/s-d7BW1BSf" target="_blank"> PROGRAMAS </a>
+              <a href="https://intelli1.zoolz.com/s-d7BW1BSf" target="_blank"> PROGRAMAS (BigMind)</a>
             </p>
             <p>
-              <a href="https://drive.google.com/drive/folders/1_nVz-Op3iAW3LI3dxdBC8f9JlEvpoc3r?usp=share_link" target="_blank"> INVENTARIO </a>
+              <a href="https://drive.google.com/drive/folders/1_nVz-Op3iAW3LI3dxdBC8f9JlEvpoc3r?usp=share_link" target="_blank"> INVENTARIO (Drive)</a>
             </p>
             <p>
-              <a href="https://mail.roshfrans.com/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.roshfrans.com%2fowa%2f" target="_blank"> OUTLOOK WEB APP </a>
+              <a href="https://drive.google.com/drive/folders/1xlCVc3GmsTzozlB4aFZdR1luyRtwGOzM" target="_blank"> MANUALES (Drive)</a>
+            </p>
+            <p>
+              <a href="https://drive.google.com/drive/folders/1y6SSDP8hgXfmnNpqQHj_chhszkCJtW2G" target="_blank"> FORMATOS (Drive)</a>
+            </p>
+            <p>
+              <a href="https://mail.roshfrans.com/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.roshfrans.com%2fowa%2f" target="_blank"> OUTLOOK WEB APP (OWA)</a>
             </p>
             <p>
               <a href="https://get.teamviewer.com/corporativosalav" target="_blank"> TEAMVIEWER CORPORATIVO SALAV </a>
             </p>
             <p>
-              <a href="https://get.teamviewer.com/corporativosalav" target="_blank"> TEAMVIEWER COMERCIAL ROSHFRANS </a>
+              <a href="https://get.teamviewer.com/roshfrans" target="_blank"> TEAMVIEWER COMERCIAL ROSHFRANS </a>
             </p>
             <p>
-              <a href="https://get.teamviewer.com/corporativosalav" target="_blank"> TEAMVIEWER AUTOPARTES SALAV </a>
+              <a href="https://get.teamviewer.com/autopartessalav" target="_blank"> TEAMVIEWER AUTOPARTES SALAV </a>
             </p>
             <p>
-              <a href="https://get.teamviewer.com/corporativosalav" target="_blank"> TEAMVIEWER BAISA </a>
+              <a href="https://get.teamviewer.com/baisa" target="_blank"> TEAMVIEWER BAISA </a>
             </p>
             <p>
-              <a href="https://get.teamviewer.com/corporativosalav" target="_blank"> TEAMVIEWER MEJ </a>
+              <a href="https://get.teamviewer.com/manufactura" target="_blank"> TEAMVIEWER MEJ </a>
+            </p>
+            <p>
+              <a href="https://get.teamviewer.com/maylo" target="_blank" > TEAMVIEWER MAYLO</a>
             </p>
           </div>
 
           <div>
-            <p>Contenido de programas para los usuarios.
+            <p>Contenido para usuarios
             </p>
             <p>
               <a href="http://serverap.roshfrans.com:8000" target="_blank"> SIRO </a>
@@ -133,7 +142,7 @@ function App() {
 
 
           <div>
-            <p>Extras.</p>
+            <p>Extras</p>
             <p>
               <a href="https://workbeat.com/" target="_blank"> WORKBEAT </a>
             </p>
