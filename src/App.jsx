@@ -65,31 +65,18 @@ function App() {
               <a href="https://drive.google.com/drive/folders/1y6SSDP8hgXfmnNpqQHj_chhszkCJtW2G" target="_blank"> FORMATOS (Drive)</a>
             </p>
             <p>
+              <a href="https://docs.google.com/spreadsheets/d/1vlIkYazJ8SLm-wMY3RhUg3EsbBVChCGX/edit#gid=1674826389" target="_blank"> EXTENSIONES CORPORATIVO SALAV (Drive)</a>
+            </p>
+            <p>
               <a href="https://mail.roshfrans.com/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.roshfrans.com%2fowa%2f" target="_blank"> OUTLOOK WEB APP (OWA)</a>
             </p>
             <p>
               <a href="https://get.teamviewer.com/corporativosalav" target="_blank"> TEAMVIEWER CORPORATIVO SALAV </a>
             </p>
-            <p>
-              <a href="https://get.teamviewer.com/roshfrans" target="_blank"> TEAMVIEWER COMERCIAL ROSHFRANS </a>
-            </p>
-            <p>
-              <a href="https://get.teamviewer.com/autopartessalav" target="_blank"> TEAMVIEWER AUTOPARTES SALAV </a>
-            </p>
-            <p>
-              <a href="https://get.teamviewer.com/baisa" target="_blank"> TEAMVIEWER BAISA </a>
-            </p>
-            <p>
-              <a href="https://get.teamviewer.com/manufactura" target="_blank"> TEAMVIEWER MEJ </a>
-            </p>
-            <p>
-              <a href="https://get.teamviewer.com/maylo" target="_blank" > TEAMVIEWER MAYLO</a>
-            </p>
           </div>
 
           <div>
-            <p>Contenido para usuarios
-            </p>
+            <p>Contenido para el usuario</p>
             <p>
               <a href="http://serverap.roshfrans.com:8000" target="_blank"> SIRO </a>
             </p>
